@@ -73,7 +73,7 @@ public class BubbleSort{
 ```
 
 
-## Part 2 - Reflection
+## Part 2 - Reflection 
 
 I found vim quite interesting, despite it being difficult to work with at first. It feels like a shortcut for programming and something I should utilize more. The ability to quickly edit and sace files for example is quite satisfying. More generally however, I like that I am more familiar with working with terminals and hope to utilize it more in the future.
 
